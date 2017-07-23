@@ -8,19 +8,19 @@ The original files from the main repository are located in /karan_projects.
 
 ## Table of Contents
 
-- [Numbers](https://github.com/karan/Projects#numbers)
-- [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
-- [Graph](https://github.com/karan/Projects#graph)
-- [Data Structures](https://github.com/karan/Projects#data-structures)
-- [Text](https://github.com/karan/Projects#text)
-- [Networking](https://github.com/karan/Projects#networking)
-- [Classes](https://github.com/karan/Projects#classes)
-- [Threading](https://github.com/karan/Projects#threading)
-- [Web](https://github.com/karan/Projects#web)
-- [Files](https://github.com/karan/Projects#files)
-- [Databases](https://github.com/karan/Projects#databases)
-- [Graphics and Multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
-- [Security](https://github.com/karan/Projects#security)
+- [Numbers](https://github.com/garret-gunter/learning-micro-projects#numbers)
+- [Classic Algorithms](https://github.com/garret-gunter/learning-micro-projects#classic-algorithms)
+- [Graph](https://github.com/garret-gunter/learning-micro-projects#graph)
+- [Data Structures](https://github.com/garret-gunter/learning-micro-projects#data-structures)
+- [Text](https://github.com/garret-gunter/learning-micro-projects#text)
+- [Networking](https://github.com/garret-gunter/learning-micro-projects#networking)
+- [Classes](https://github.com/garret-gunter/learning-micro-projects#classes)
+- [Threading](https://github.com/garret-gunter/learning-micro-projects#threading)
+- [Web](https://github.com/garret-gunter/learning-micro-projects#web)
+- [Files](https://github.com/garret-gunter/learning-micro-projects#files)
+- [Databases](https://github.com/garret-gunter/learning-micro-projects#databases)
+- [Graphics and Multimedia](https://github.com/garret-gunter/learning-micro-projects#graphics-and-multimedia)
+- [Security](https://github.com/garret-gunter/learning-micro-projects#security)
 
 Numbers
 ---------
